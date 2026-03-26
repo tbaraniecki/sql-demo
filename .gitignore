@@ -2,3 +2,4 @@ tpch-data
 tpch-dbgen
 _steps.md
 .DS_STORE
+tmp
