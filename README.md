@@ -10,3 +10,7 @@ Chosen TCP-H database as it treat as a benchmark do SQL-like database and allows
 
 ## Resolutions
 * [q06.sql - random vs sequential IO](resolutions/q06_resolution.md)
+
+
+## Other
+* [General thoughts](general-thoughts.md)
